@@ -1,2 +1,3 @@
-Heyy guys
-Welcome to Hacktober Fest
+Heyy guys.
+Welcome to Hacktober Fest.
+This is the 3rd PR.
